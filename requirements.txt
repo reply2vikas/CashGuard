@@ -1,0 +1,8 @@
+# CashGuard — dependencies
+# Core: Google ADK (Agent Development Kit) + Gemini
+google-adk>=1.0.0
+google-genai>=1.0.0
+# Simple demo UI for the video
+gradio>=4.44.0
+# Utilities
+python-dotenv>=1.0.0
