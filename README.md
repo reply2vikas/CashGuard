@@ -74,8 +74,8 @@ The app opens with a sample statement pre-loaded. Click **Investigate my cashflo
 
 ## 7. Demo highlight
 
-- **Red path:** projected overdraft on **2026-06-27**.
-- **Green path:** pause the biggest recurring charge → **no overdraft**.
+- **Red path:** projected overdraft on **2026-06-22**.
+- **Green path:** pause the biggest discretionary charge (**MealKit Weekly**) → **no overdraft**.
 - **Failure recovery:** any unparseable statement row is flagged and skipped, not crashed on.
 
 ## 8. Security note
